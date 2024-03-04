@@ -1,0 +1,2 @@
+# sammy
+for random projects
